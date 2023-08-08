@@ -17,10 +17,11 @@
 
 //Const
 
-const name = "bedirhan sığırcı";
+// const name = "bedirhan sığırcı";
 
-console.log(name);
+// console.log(name);
 
 // name= "bedo";
 
 // console.log(name);
+ 
